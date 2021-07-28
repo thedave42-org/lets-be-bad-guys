@@ -9,7 +9,7 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "Use me to run security-extended"
+name: "Use me for security-extended"
 
 on:
   workflow_dispatch:
